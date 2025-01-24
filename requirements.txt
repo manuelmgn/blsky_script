@@ -1,0 +1,4 @@
+apscheduler
+atproto
+python-dotenv
+pillow

@@ -1,2 +1,2 @@
-# blsky_script
-Blsky script for Arte do Pais
+# bsky_poster_artedopais
+Bluesky bot for artedopais 
